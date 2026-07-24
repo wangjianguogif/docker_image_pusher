@@ -1,1 +1,1 @@
-paigeeworld/centos7:dlardo
+centos7
