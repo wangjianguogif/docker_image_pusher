@@ -1,1 +1,1 @@
-dhi.io/jenkins:2.576-debian-fips
+jenkins/jenkins:2.346.3-jdk8
