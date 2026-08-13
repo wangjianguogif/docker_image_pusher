@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:19.0.6-ce.0
+dhi.io/jenkins:2.576-debian-fips
