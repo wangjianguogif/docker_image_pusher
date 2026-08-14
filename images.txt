@@ -1,1 +1,1 @@
-corentinth/it-tools:nightly
+ghcr.io/lunatechlab/moontv:latest
