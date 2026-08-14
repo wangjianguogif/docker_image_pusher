@@ -1,1 +1,1 @@
-jenkins/jenkins:2.568.2-lts-jdk21
+corentinth/it-tools:nightly
