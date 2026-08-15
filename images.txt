@@ -1,1 +1,2 @@
-ghcr.io/lunatechlab/moontv:latest
+mysql:5.7
+wordpress:php8.5-fpm-alpine
